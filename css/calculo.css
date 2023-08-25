@@ -1,0 +1,42 @@
+body{
+    background-color: beige;
+}
+
+#div{
+    width: 65%;
+    height: 380px;
+    margin-top: 130px;
+    background-color: aqua;
+}
+
+#div2{
+    height: 50px;
+    background-color: blue;
+}
+
+h2{
+    color: white;
+    position: relative;
+    top:10px;
+    font-size: 29px;
+}
+
+.form-control{
+    margin-top: 10px;
+    font-size: 18px;
+    width: 46%;
+    height: 50px;
+}
+label{
+    font-size: 20px;
+}
+
+#btn2{
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+#btn1{
+    margin-top: 20px;
+    margin-left: 50px;
+}

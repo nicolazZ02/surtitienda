@@ -1,0 +1,155 @@
+body{
+    background-color:azure;
+}
+
+
+#res{
+    box-shadow: 0px 10px 12px black;
+    border-radius: 10px;
+    margin-left: 400px;
+    width: 590px;
+    height: 540px;
+    background-color: aquamarine;
+}
+
+#inp1{
+    border-radius: 5px;
+    font-size: 17px;
+    margin-top: 10px;
+    margin-left: 180px;
+    width: 255px;
+    height: 30px;
+}
+#lab1{
+    font-size: 18px;
+    width: 50px;
+    margin-left: 35px;
+    position: relative;
+    top: 35px;
+}
+
+#inp2{
+    border-radius: 5px;
+    font-size: 17px;
+    margin-top: 5px;
+    margin-left: 180px;
+    width: 255px;
+    height: 30px;
+}
+#lab2{
+    font-size: 18px;
+    width: 150px;
+    margin-left: 35px;
+    position: relative;
+    top: 30px;
+}
+#inp3{
+    border-radius: 5px;
+    font-size: 17px;
+    margin-top: 5px;
+    margin-left: 180px;
+    width: 255px;
+    height: 30px;
+}
+#lab3{
+    font-size: 18px;
+    width: 50px;
+    margin-left: 35px;
+    position: relative;
+    top: 30px;
+}
+#inp4{
+    border-radius: 5px;
+    font-size: 17px;
+    margin-top: 5px;
+    margin-left: 180px;
+    width: 255px;
+    height: 30px;
+}
+#lab4{
+    font-size: 18px;
+    width: 50px;
+    margin-left: 35px;
+    position: relative;
+    top: 30px;
+}
+#inp5{
+    border-radius: 5px;
+    font-size: 17px;
+    margin-top: 5px;
+    margin-left: 180px;
+    width: 255px;
+    height: 30px;
+}
+#lab5{
+    font-size: 18px;
+    width: 180px;
+    margin-left: 35px;
+    position: relative;
+    top: 30px;
+}
+#inp6{
+    border-radius: 5px;
+    font-size: 17px;
+    margin-top: -20px;
+    margin-left: 180px;
+    width: 255px;
+    height: 30px;
+}
+#lab6{
+    font-size: 18px;
+    width: 50px;
+    margin-left: 50px;
+    position: relative;
+    top: 20px;
+}
+#inp7{
+    border-radius: 5px;
+    font-size: 17px;
+    margin-top: -10px;
+    margin-left: 180px;
+    width: 258px;
+    height: 30px;
+}
+#lab7{
+    font-size: 18px;
+    width: 140px;
+    margin-left: 50px;
+    position: relative;
+    top: 20px;
+}
+
+#bot{
+    font-size: 17px;
+    margin-top: 40px;
+    margin-left: 200px;
+    width: 190px;
+    height: 30px;
+    border-radius:8px;
+    background-color: #87ABE3;
+    box-shadow: #094c66 4px 4px 0px;
+    transition: transform 200ms, box-shadow 200ms;
+}
+#bot:active{
+    transform: translate(4px) translate(4px);
+    box-shadow: #094c66 0px 0px 0px;
+}
+
+
+
+
+#h2{
+    width: 480px;
+    margin-left: 60px;
+    position: relative;
+    top: 5px;
+    border-radius: 10px;
+    background-color: dodgerblue;
+    color: white;
+    font-size: 19px;
+    height: 40px;
+}
+#h2_1{
+    padding-top: 3px;
+    margin-left: 120px;
+}

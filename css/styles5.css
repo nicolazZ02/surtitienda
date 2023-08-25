@@ -1,0 +1,140 @@
+body{
+    width: 1105px;
+    height: 590px;
+    background-color:beige;
+}
+
+#cab{
+    height: 45px;
+    width: 655px;
+    position: relative;
+    top: -8px;
+    border-radius: 10px;
+    background-color:blue ;
+}
+
+.close{
+    font-size: 25px;
+    width: 70px;
+    height: 30px;
+    margin-left: 647px;
+    position: relative;
+    top: -6px;
+    text-decoration: none;
+    color: black;
+}
+span{
+    color: white;
+    font-size: 25px;
+    margin-left: 20px;
+    position: relative;
+    top: 8px;
+}
+
+#cod{
+    width: 650px;
+    height: 630px;
+    padding: 5px 20px 13px 20px;
+    margin-left: 320px;
+    margin-top: 5px;
+    margin-right: 40px;
+    border-radius: 10px;
+    overflow: auto; overflow: hidden;
+    box-shadow: 0px 0px 10px 0px #333 inset;
+    background-color: aqua;
+}
+
+
+
+#inp1{
+    font-size: 17px;
+    margin: auto;
+    border-radius: 8px;
+    margin-top: 10px;
+    margin-left: 40px;
+    width: 50%;
+    height: 35px;
+    font-weight: bolder;
+    text-align: center;
+}
+#dev1{
+    align-items: center;
+    width: 100%;
+}
+
+#inp2{
+    font-size: 17px;
+    margin: auto;
+    border-radius: 8px;
+    margin-top: 10px;
+    margin-left: 40px;
+    width: 50%;
+    height: 35px;
+    font-weight: bolder;
+    text-align: center;
+}
+
+
+
+#inp3{
+    font-size: 17px;
+    margin: auto;
+    border-radius: 8px;
+    margin-top: 10px;
+    margin-left: 40px;
+    width: 50%;
+    height: 35px;
+    font-weight: bolder;
+    text-align: center;
+}
+
+
+
+#inp4{
+    font-size: 17px;
+    margin: auto;
+    border-radius: 8px;
+    margin-top: 10px;
+    margin-left: 40px;
+    width: 50%;
+    height: 35px;
+    font-weight: bolder;
+    text-align: center;
+}
+
+#tip{
+    font-size: 17px;
+    margin: auto;
+    border-radius: 8px;
+    margin-top: 10px;
+    margin-left: 40px;
+    width: 50%;
+    height: 35px;
+    font-weight: bolder;
+    text-align: center;
+}
+
+
+#lab1{
+    font-size: 18px;
+    margin-left: -218px;
+    position: relative;
+    top: 7px;
+}
+#lab2{
+    font-size: 18px;
+    margin-left: -170px;
+    position: relative;
+    top: 7px;
+}
+
+
+#bot{
+    font-size: 18px;
+    margin-top: 20px;
+    margin-left: 25px;
+    width: 180px;
+    height: 42px;
+    border-radius: 20px;
+    background-color: darkslateblue;
+}

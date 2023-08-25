@@ -1,0 +1,156 @@
+body{
+    overflow: hidden;
+}
+
+#es{
+    width: 240px;
+    height: 30px;
+    display: inline-flex;
+    margin-top: 10px;
+    margin-left: 225px;
+
+}
+#ses{
+    background-color: antiquewhite;
+    padding-left:5rem;
+    padding-bottom: 5rem;
+    text-align: justify;
+    display: inline;
+    text-decoration: none;
+    color: black;
+}
+#ses:hover{
+    color:darkturquoise;
+}
+
+#nom p{
+
+    font-size: 13px;
+    margin-top: -30px;
+    margin-left: 46rem;
+    width: 275px;
+    height: 40px;
+    display: flex;
+}
+
+.btn-group{
+    margin-left: 180px;
+}
+
+#btnGroupDrop1{
+    border-radius: 5px;
+    background-color:#5667F5;
+    margin-left: 60px;
+    border: 0px;
+    color:black;
+    width: 355px;
+    height: 35px;
+}
+#btnGroupDrop1:focus{
+    background-color:#fff;
+}
+
+.nav{
+    margin-left: 390px;
+}
+
+#ini{
+    color: black;
+}
+#fecha{
+    text-align: center;
+    margin-left: 10px;
+    margin-top: 10px;
+    width: 300px;
+    height: 120px;
+}
+
+#a{
+    margin-top: 10px;
+}
+#h2{
+    position: relative;
+    left: -35px;
+    top: 5px;
+}
+
+#h3{
+    font-size: 40px;
+}
+.mi{
+    margin-left: -9px;
+    margin-top: -2px;
+    width: 38px;
+    height: 38px;
+    padding: 2px;
+}
+
+.buscar{
+    margin-top: 30px;
+    margin-left: 310px;
+    width: 520px;
+    height: 40px;
+    border-radius: 6px;
+}
+#but{
+    height: 40px;
+    margin-top: -7px;
+}
+
+#nim{
+    margin-left: 15px;
+    margin-top: 20px;
+    width: 380px;
+}
+
+
+#add{
+    color: black;
+    text-decoration: none;
+    font-size: 16px;
+    margin-top: -30px;
+    margin-left: 64rem;
+    width: 230px;
+    display: flex; 
+}
+#add:hover{
+    color:darkseagreen;
+}
+
+
+.container-fluid{
+   
+    height: 90px;
+}
+
+.navbar{
+    background-color: #5667F5 ;
+    margin-top: 10px;
+}
+
+#head{
+    color: #000;
+    background-color:#56F5D3 ;
+}
+
+.nav-link{
+    margin-left: 180px;
+}
+
+
+.table{
+    width: 75%;
+    margin-left: 200px;
+    margin-top: 30px;
+}
+
+#voz{
+    margin-left: 30px;
+    margin-top: 10%;
+}
+.buscar{
+ 
+    margin-top: -30px;
+}
+
+

@@ -1,0 +1,114 @@
+body{
+    background-color:beige;
+}
+
+
+#cad{
+    margin-top: 140px;
+    margin-left: 195px;
+    border-radius: 15px;
+    width:  980px ;
+    height: 270px;
+    background-color:#ECF0F1;
+}
+#ses{
+    width: 970px;
+    border-radius: 15px;
+    margin-left: 5px;
+    background-color: cadetblue;
+}
+#gra{
+    color: #fff;
+    margin-left: 355px;
+}
+
+#h2{
+    margin-left: 390px;
+    font-size: 26px;
+    color:#000;
+}
+#h3{
+    margin-left: 260px;
+    font-size: 19px;
+    color:#000;
+}
+
+#p{
+    margin-top: 16px;
+    margin-left: 259px;
+    font-size: 20px;
+    color: #000;
+}
+
+
+
+
+
+
+
+.boton {
+    margin-top: 10px;
+    margin-left: 340px;
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	width: 32%;
+	height: 70px;
+	background: #AAB7B8 ;
+	color: #fff;
+	font-family: 'Roboto', sans-serif;
+	font-size: 20px;
+	font-weight: 500;
+	border: none;
+	cursor: pointer;
+	text-transform: uppercase;
+	transition: .3s ease all;
+	border-radius: 50px;
+	position: relative;
+	overflow: hidden;
+}
+
+.boton span {
+	position: relative;
+	z-index: 2;
+	transition: .3s ease all;
+}
+
+
+
+
+.boton.cinco span {
+	transition: .4s ease-in-out all;
+	position: absolute;
+	left: 21%;
+}
+
+.boton.cinco .icono {
+	display: flex;
+	align-items: center;
+	position: absolute;
+	z-index: 2;
+	left: -40px;
+	transition: .3s ease-in-out all;
+	opacity: 0;
+}
+
+.boton.cinco svg {
+	color: #fff;
+	width: 35px;
+	height: 35px;
+}
+
+.boton.cinco:hover {
+	background: #2f9b05;
+}
+
+.boton.cinco:hover .icono {
+	left: calc(100% - 50px);
+	opacity: 1;
+}
+
+.boton.cinco:hover span {
+	left: 20px;
+}
+

@@ -1,0 +1,108 @@
+body{
+    width: 1320px;
+    height: 600px;
+    background-color:white;
+}
+
+#vi{
+    width: 650px;
+    height: 500px;
+    background-color:#FFC107;
+    margin-left: 382px;
+    position: relative;
+    top: 40px;
+    margin-top: 10px;
+    overflow: auto; overflow: hidden;
+    box-shadow: 0px 0px 10px 0px #333 inset;
+    border-radius: 15px;
+}
+
+span{
+    font-size: 29px;
+    margin-left: 160px;
+    position: relative;
+    top: 6px;
+}
+
+#rep{
+    height: 48px;
+    width: 430px;
+    position: relative;
+    top: 14px;
+    margin-left: 114px;
+    background-color:#198754;
+    border-radius: 10px;
+}
+
+#init{
+    color: white;
+    font-size: 25px;
+    margin-left: 102px;
+    position: relative;
+    top: 4px;
+}
+
+
+
+#inp1{
+    font-size: 17px;
+    width: 310px;
+    height: 41px;
+    margin-top: 55px;
+    margin-left: 167px;
+    border-radius: 6px;
+
+}
+#inp2{
+    font-size: 17px;
+    width: 310px;
+    height: 41px;
+    margin-top: 65px;
+    margin-left: 167px;
+    border-radius: 6px;
+}
+
+#boton{
+    width: 169px;
+    height: 42px;
+    font-size: 18px;
+    margin-left: 235px;
+    margin-top: 70px;
+    border-radius:15px;
+    background-color: #B5FE83;
+}
+
+#boton:hover{
+    background-color: cadetblue;
+    color: white;
+}
+
+#bot{
+    width: 130px;
+    height: 35px;
+    border-radius: 15px;
+}
+
+#olv{
+    text-decoration: none;
+    color: black;
+    margin-left: 29px;
+    position: relative;
+    top: 7px;
+    font-size: 18px;
+}
+#olv:hover{
+    color: white;
+}
+#vio{
+    font-size: 17px;
+    text-decoration: none;
+    color: black;
+    margin-left: 5px;
+    position: relative;
+    top: 5px;
+}
+
+#vio:hover{
+    color: white;
+}
